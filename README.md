@@ -1,8 +1,16 @@
+
+admin:
+
+lohin:  admin@mail.com
+
+pass:   password
+
 <p align="center">
     <a href="https://aimeos.org/">
         <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="center" />
     </a>
 <p>
+
 
 <p align="center">
     <a href="https://packagist.org/packages/aimeos/aimeos" alt="Total Downloads"><img src="https://poser.pugx.org/aimeos/aimeos-laravel/d/total.svg" alt="Total Downloads" title="Total Downloads" /></a>
