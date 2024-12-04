@@ -6,7 +6,7 @@
 
 
 
-Packages used in demo
+### Packages used in demo
 
 * #### [aimeos/ai-admin-graphql](https://packagist.org/packages/aimeos/ai-admin-graphql)   
 
