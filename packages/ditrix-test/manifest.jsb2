@@ -1,0 +1,22 @@
+{
+	"projectName": "ditrix-test",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "ditrix-test CSS",
+		"file": "index-css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "ditrix-test JS",
+		"file": "index-js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
